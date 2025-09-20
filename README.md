@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hey there, I’m Munna – a frontend web developer on a journey to build awesome digital experiences.<br>🧠 Constantly learning and experimenting with HTML, CSS, JavaScript, and beyond.<br>💻 I enjoy crafting clean, user-friendly interfaces and diving into modern web tech.<br>🤝 Open to collaborations, learning opportunities, and cool frontend projects.
+👋 Hey there, I’m Munna – a Full Stack web developer on a journey to build awesome digital experiences.<br>🧠 Constantly learning and experimenting with REACT JS, NEXT JS, JavaScript, and beyond.<br>💻 I enjoy crafting clean, user-friendly interfaces and diving into modern web tech.<br>🤝 Open to collaborations, learning opportunities, and cool frontend projects.
 
 
 ## 🌐 Socials:
